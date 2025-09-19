@@ -25,14 +25,7 @@ Example Output:
 <img width="1365" height="729" alt="image" src="https://github.com/user-attachments/assets/6eb9293b-ad6b-480a-8a53-7f6236163219" />
 <img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/1dd1c64b-2c42-42e7-8cf6-0ce00ea4ab07" />
 
-
-
-
-
-
-
-## 📂 File Structure
-
+📂 File Structure
 python-games/
 ├── guess_number.py # Guess the Number game
 ├── snake_water_gun.py # Snake Water Gun game
