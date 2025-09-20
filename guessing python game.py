@@ -10,4 +10,4 @@ while(a != n):
   else:
     print("guessed higher number")
     guesss+=1
-print(f"you guessed the correct number in {guesss} attempts")      
+print(f"you guessed the {n} correct number in {guesss} attempts")      
